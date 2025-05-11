@@ -1,0 +1,1 @@
+* [Simple Memory](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.memorybufferwindow/index.md): stores a customizable length of chat history for the current session. This is the easiest to get started with.

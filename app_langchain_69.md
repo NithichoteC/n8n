@@ -1,0 +1,2 @@
+n8n provides tool [sub-nodes](/glossary.md#sub-node-n8n) that you can connect to your [AI agent](/glossary.md#ai-agent). As well as providing some popular tools, such as [Wikipedia](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolwikipedia.md) and [SerpAPI](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.toolserpapi.md), n8n provides three especially powerful tools:
+

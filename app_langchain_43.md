@@ -1,0 +1,1 @@
+* [Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index.md): the Agent node interacts with other components of the workflow and makes decisions about what [tools](/glossary.md#ai-tool) to use.

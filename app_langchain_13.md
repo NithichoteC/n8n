@@ -1,0 +1,1 @@
+- [OpenAI](/integrations/builtin/app-nodes/n8n-nodes-langchain.openai/index.md): Added the option to choose between the default memory connector to provide memory to the assistant or to specify a thread ID    

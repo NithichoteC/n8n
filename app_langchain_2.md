@@ -1,0 +1,1 @@
+- a MCP [Server Trigger](/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger.md) for any workflow  

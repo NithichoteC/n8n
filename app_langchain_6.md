@@ -1,0 +1,2 @@
+- [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index.md): Vector stores can now be directly used as tools for the agent
+- [Code](/code/builtin/overview.md): Tons of new speed and convenience features, see above for details  

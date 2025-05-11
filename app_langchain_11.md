@@ -1,0 +1,1 @@
+- [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index.md): Removed the requirement to add at least one tool  

@@ -1,0 +1,1 @@
+- [Anthropic Chat Model Node](/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.lmchatanthropic.md): Added Haiku 3.5 support  

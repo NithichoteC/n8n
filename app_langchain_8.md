@@ -1,0 +1,1 @@
+- [AI Agent](/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/index.md): Updated descriptions for Chat Trigger options
